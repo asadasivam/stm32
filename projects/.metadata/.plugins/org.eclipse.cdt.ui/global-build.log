@@ -1,4 +1,4 @@
-15:48:30 **** Incremental Build of configuration Debug for project rtos_led_blink ****
+15:57:34 **** Incremental Build of configuration Debug for project rtos_led_blink ****
 make -j7 all 
 arm-none-eabi-size  rtos_led_blink.elf 
    text	   data	    bss	    dec	    hex	filename
