@@ -1,0 +1,3 @@
+[submodule "projects/rtos_led_blink/FreeRTOS"]
+	path = projects/rtos_led_blink/FreeRTOS
+	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
