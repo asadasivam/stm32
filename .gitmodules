@@ -1,3 +1,6 @@
 [submodule "projects/rtos_led_blink/FreeRTOS"]
 	path = projects/rtos_led_blink/FreeRTOS
 	url = https://github.com/FreeRTOS/FreeRTOS-Kernel.git
+[submodule "firmwares/workspace"]
+	path = firmwares/workspace
+	url = git@github.com:asadasivam/workspace.git
