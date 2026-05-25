@@ -1,2 +1,2 @@
 # stm32
-bare-metal and free-rtos programming
+bare-metal(bootloader) and free-rtos(task synchronization)
